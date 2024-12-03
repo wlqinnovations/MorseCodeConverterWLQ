@@ -102,4 +102,4 @@ This Python script provides a simple GUI-based **Text to Morse Code Converter**.
 ### **License**:
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-For any issues or suggestions, please feel free to open an [issue](https://github.com/wlqinnovations/MorseCodeConverterWLQ). We welcome contributions!
+For any issues or suggestions, please feel free to open an [issue](https://github.com/wlqinnovations/MorseCodeConverterWLQ/issues). We welcome contributions!
